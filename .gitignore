@@ -114,6 +114,7 @@ train_log/
 results_dir/
 
 */.DS_Store
+*/*/.DS_Store
 .DS_Store
 .vscode/
 /venv/
