@@ -55,7 +55,6 @@ coverage.xml
 # Translations
 *.mo
 *.pot
-
 # Django stuff:
 *.log
 local_settings.py
@@ -113,3 +112,9 @@ venv.bak/
 eval_out18/
 train_log/
 results_dir/
+
+*/.DS_Store
+.DS_Store
+.vscode/
+/venv/
+.idea/
